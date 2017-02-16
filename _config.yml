@@ -1,5 +1,5 @@
-title: DFES JKAN
-greeting: Welcome to the Department of Fire and Emergency Service - Demonstration Data Portal
+title: DFES Test Data Portal
+greeting: Welcome to the DFES Demonstration Data Portal
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 
 baseurl: /jkan
