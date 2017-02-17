@@ -7,8 +7,7 @@ notes: >-
   Offices.
 resources:
   - name: SLIP
-    url: >-
-      https://services.slip.wa.gov.au/public/services/DFES_Public_Services/DFES_Public_Services/MapServer/WMSServer
+    url: "\thttps://services.slip.wa.gov.au/public/rest/services/DFES_Public_Services/DFES_Public_Services/MapServer/0"
     format: api
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
