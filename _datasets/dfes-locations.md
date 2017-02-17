@@ -1,0 +1,18 @@
+---
+schema: default
+title: DFES Locations
+organization: DFES
+notes: >-
+  This dataset consists of point data showing the location of DFES Stations and
+  Offices.
+resources:
+  - name: SLIP
+    url: >-
+      https://services.slip.wa.gov.au/public/services/DFES_Public_Services/DFES_Public_Services/MapServer/WMSServer
+    format: api
+license: 'https://creativecommons.org/licenses/by/4.0/'
+category:
+  - Uncategorized
+maintainer: DFES Spatial Services
+maintainer_email: GIS@dfes.wa.gov.au
+---
